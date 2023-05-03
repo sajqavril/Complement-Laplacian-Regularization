@@ -1,4 +1,9 @@
-# A Reminder for CLAR Repository
+# Repo for CLAR: Complement LAplacian Regularization
+
+Thanks for your interest in our ICDMW'22 paper: 
+Improving Your Graph Neural Networks: A High-Frequency Booster. https://arxiv.org/abs/2210.08251
+
+### A gentle reminder for CLAR repository
 
 We publicize the essential three Python files for a better understanding of our submission and to ensure reproducibility.
 
